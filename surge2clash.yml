@@ -71,14 +71,14 @@ Proxy:
 # 加密算法推荐：AEAD_AES_128_GCM AEAD_AES_192_GCM AEAD_AES_256_GCM AEAD_CHACHA20_POLY1305
 
 # Shadowsocks
-- name: "Azure-SS#1"
+- name: "🔔 Azure-SS#1"
   type: ss
   server: 13.75.72.111
   port: 42445
   cipher: CHACHA20-IETF-POLY1305
   password: "lixiang97612"
 
-- name: "Azure-SS#2"
+- name: "🔔 Azure-SS#2"
   type: ss
   server: 52.175.34.43
   port: 13531
@@ -87,7 +87,7 @@ Proxy:
 
 # Project V(V2Ray) VMess(Websocket + TLS)
 #- { name: "4", type: vmess, server: v2ray.cool, port: 443, uuid: a3482e88-686a-4a58-8126-99c9df64b7bf, alterId: 7, cipher: auto, network: ws, ws-path: /v2ray.cool/, tls: true }
-- { name: "v2ray-SG", type: vmess, server: 52.148.80.117, port: 8084, uuid: dd92a520-74ff-4caf-9ca2-449f7a47c7d7, alterId: 233, cipher: aes-128-gcm }
+- { name: "🔔 v2ray-SG", type: vmess, server: 52.148.80.117, port: 8084, uuid: dd92a520-74ff-4caf-9ca2-449f7a47c7d7, alterId: 233, cipher: aes-128-gcm }
 ###############################################################
 
 
