@@ -444,6 +444,11 @@ Rule:
   - DOMAIN-KEYWORD,gstatic,🔍 Google
   - DOMAIN-KEYWORD,youtube,🔍 Google
   - DOMAIN-SUFFIX,amazonaws.com,🛒 Amazon
+  - DOMAIN-SUFFIX,thepiratebay.org,🍃 Proxy
+  - DOMAIN-SUFFIX,tediorelee.cn,🍃 Proxy
+  - DOMAIN-SUFFIX,rarbgprx.org,🍃 Proxy
+  - DOMAIN-SUFFIX,mixer.com,🍃 Proxy
+  - DOMAIN-SUFFIX,kanlifan.net,🍃 Proxy
   - IP-CIDR,13.32.0.0/16,🛒 Amazon
   - IP-CIDR,13.33.0.0/16,🛒 Amazon
   - IP-CIDR,13.35.0.0/17,🛒 Amazon
