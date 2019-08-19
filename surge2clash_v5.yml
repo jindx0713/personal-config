@@ -14734,6 +14734,7 @@ Rule:
   - DOMAIN-SUFFIX,lcdn-registration.apple.com,🚀 Direct
   - DOMAIN-SUFFIX,ls.apple.com,🚀 Direct
   - DOMAIN-SUFFIX,local,🚀 Direct
+  - DOMAIN-SUFFIX,163.com,🎵 NeteaseMusic
   - IP-CIDR,192.168.0.0/16,🚀 Direct
   - IP-CIDR,10.0.0.0/8,🚀 Direct
   - IP-CIDR,172.16.0.0/12,🚀 Direct
