@@ -69,14 +69,14 @@ Proxy:
 # 加密算法推荐：AEAD_AES_128_GCM AEAD_AES_192_GCM AEAD_AES_256_GCM AEAD_CHACHA20_POLY1305
 
 # Shadowsocks
-- name: "🔔 Azure-SS#1"
+- name: "🔔 SS-HK#1"
   type: ss
   server: 13.75.72.111
   port: 42445
   cipher: CHACHA20-IETF-POLY1305
   password: "lixiang97612"
 
-- name: "🔔 Azure-SS#2"
+- name: "🔔 SS-HK#2"
   type: ss
   server: 52.175.34.43
   port: 13531
@@ -106,8 +106,8 @@ Proxy Group:
   - name: 🏃 Auto
     type: url-test
     proxies:
-      - 🔔 Azure-SS#1
-      - 🔔 Azure-SS#2
+      - 🔔 SS-HK#1
+      - 🔔 SS-HK#2
       - 🔔 v2ray-SG
       - 🔔 Mirage-香港
       - 🔔 v2ray-Netflix#1
@@ -118,8 +118,8 @@ Proxy Group:
   - name: 🛴 Fallback
     type: fallback
     proxies:
-      - 🔔 Azure-SS#1
-      - 🔔 Azure-SS#2
+      - 🔔 SS-HK#1
+      - 🔔 SS-HK#2
       - 🔔 v2ray-SG
       - 🔔 Mirage-香港
       - 🔔 v2ray-Netflix#1
@@ -130,8 +130,8 @@ Proxy Group:
   - name: 🛥 Select
     type: select
     proxies:
-      - 🔔 Azure-SS#1
-      - 🔔 Azure-SS#2
+      - 🔔 SS-HK#1
+      - 🔔 SS-HK#2
       - 🔔 v2ray-SG
       - 🔔 Mirage-香港
       - 🔔 v2ray-Netflix#1
@@ -141,8 +141,8 @@ Proxy Group:
     type: select
     proxies:
       - 🏃 Auto
-      - 🔔 Azure-SS#1
-      - 🔔 Azure-SS#2
+      - 🔔 SS-HK#1
+      - 🔔 SS-HK#2
       - 🔔 v2ray-SG
       - 🔔 Mirage-香港
       - 🔔 v2ray-Netflix#1
