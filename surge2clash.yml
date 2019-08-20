@@ -94,7 +94,7 @@ Proxy:
 #- { name: "4", type: vmess, server: v2ray.cool, port: 443, uuid: a3482e88-686a-4a58-8126-99c9df64b7bf, alterId: 7, cipher: auto, network: ws, ws-path: /v2ray.cool/, tls: true }
 - { name: "🔔 v2ray-SG", type: vmess, server: 52.148.80.117, port: 8084, uuid: dd92a520-74ff-4caf-9ca2-449f7a47c7d7, alterId: 233, cipher: aes-128-gcm }
 
-- { name: "🔔 v2ray-Netflix#1", type: vmess, server: altair.highway365.xyz, port: 8080, uuid: 12141218-a8ed-4140-9058-51410e07060c, alterId: 16, cipher: aes-128-gcm }
+- { name: "🔔 v2ray-Netflix#1", type: vmess, server: rin.hkg.highway365.xyz, port: 8082, uuid: 12141218-a8ed-4140-9058-51410e07060c, alterId: 16, cipher: aes-128-gcm }
 
 - { name: "🔔 v2ray-Netflix#2", type: vmess, server: miach.highway365.xyz, port: 8080, uuid: 12141218-a8ed-4140-9058-51410e07060c, alterId: 8, cipher: aes-128-gcm }
 
