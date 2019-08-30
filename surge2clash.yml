@@ -109,10 +109,6 @@ Proxy Group:
       - 🔔 SS-HK#1
       - 🔔 SS-HK#2
       - 🔔 v2ray-SG
-      - 🔔 Mirage-香港
-      - 🔔 v2ray-Netflix#1
-      - 🔔 v2ray-Netflix#2
-      - 🎵 NeteaseMusic
     url: http://www.gstatic.com/generate_204
     interval: "300"
   - name: 🛴 Fallback
@@ -132,11 +128,6 @@ Proxy Group:
     proxies:
       - 🔔 SS-HK#1
       - 🔔 SS-HK#2
-      - 🔔 v2ray-SG
-      - 🔔 Mirage-香港
-      - 🔔 v2ray-Netflix#1
-      - 🔔 v2ray-Netflix#2
-      - 🎵 NeteaseMusic
   - name: 🍃 Proxy
     type: select
     proxies:
@@ -144,10 +135,6 @@ Proxy Group:
       - 🔔 SS-HK#1
       - 🔔 SS-HK#2
       - 🔔 v2ray-SG
-      - 🔔 Mirage-香港
-      - 🔔 v2ray-Netflix#1
-      - 🔔 v2ray-Netflix#2
-      - 🎵 NeteaseMusic
   - name: 🚦 Ad-Black
     type: select
     proxies:
@@ -205,7 +192,6 @@ Proxy Group:
   - name: 🎬 Netflix
     type: select
     proxies:
-      - 🍃 Proxy
       - 🔔 v2ray-Netflix#1
       - 🔔 v2ray-Netflix#2
       - 🚀 Direct
