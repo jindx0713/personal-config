@@ -71,14 +71,14 @@ Proxy:
 # Shadowsocks
 - name: "🔔 SS-HK#1"
   type: ss
-  server: 13.75.72.111
+  server: sshk1.iidx.xyz
   port: 42445
   cipher: CHACHA20-IETF-POLY1305
   password: "lixiang97612"
 
 - name: "🔔 SS-HK#2"
   type: ss
-  server: 52.175.34.43
+  server: sshk2.iidx.xyz
   port: 13531
   cipher: CHACHA20-IETF
   password: "lixiang97612"
