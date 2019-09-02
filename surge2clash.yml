@@ -72,9 +72,9 @@ Proxy:
 - name: "🔔 SS-HK#1"
   type: ss
   server: sshk1.iidx.xyz
-  port: 42445
-  cipher: CHACHA20-IETF-POLY1305
-  password: "lixiang97612"
+  port: 11451
+  cipher: CHACHA20-IETF
+  password: "lovezq4ever"
 
 - name: "🔔 SS-HK#2"
   type: ss
